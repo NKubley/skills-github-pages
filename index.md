@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+title: Test GitHub Pages
+author: Me
 ---
 
+Hello, World!
